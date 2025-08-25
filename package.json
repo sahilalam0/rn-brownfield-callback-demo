@@ -42,5 +42,10 @@
   "peerDependencies": {},
   "engines": {
     "node": ">=18"
+  },
+  "codegenConfig": {
+    "name": "RnBrownfieldCallbackDemoSpec",
+    "type": "modules",
+    "jsSrcsDir": "src/specs"
   }
 }

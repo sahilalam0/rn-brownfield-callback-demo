@@ -1,0 +1,6 @@
+framework module RnBrownfieldCallbackDemoReact {
+  umbrella header "RnBrownfieldCallbackDemoReact.h"
+  export *
+
+  module * { export * }
+}

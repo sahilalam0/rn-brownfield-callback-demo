@@ -1,5 +1,5 @@
-import WelcomeScreen from '@rock-js/welcome-screen';
+import ProcessEventsDemo from './src/components/ProcessEventsDemo';
 
 export default function App() {
-  return <WelcomeScreen />;
+  return <ProcessEventsDemo />;
 }
